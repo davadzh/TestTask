@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NDTLbaR/xoU2BfEegD+JDGq8NGA7DT56TypKMxa9U5Ol5P2t8wfCPm8Sgz48Cn+rBKeEnUTjquxo6Tc3cTADg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Давид\\source\\repos\\NaviconTestApp\\NaviconTestApp\\NaviconTestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Давид\\.nuget\\packages\\nlog\\4.7.10\\nlog.4.7.10.nupkg.sha512"
+  ],
+  "logs": []
+}

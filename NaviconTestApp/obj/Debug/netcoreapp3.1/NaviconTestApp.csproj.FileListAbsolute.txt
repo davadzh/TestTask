@@ -1,0 +1,16 @@
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\bin\Debug\netcoreapp3.1\NaviconTestApp.exe
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\bin\Debug\netcoreapp3.1\NaviconTestApp.deps.json
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\bin\Debug\netcoreapp3.1\NaviconTestApp.runtimeconfig.json
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\bin\Debug\netcoreapp3.1\NaviconTestApp.runtimeconfig.dev.json
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\bin\Debug\netcoreapp3.1\NaviconTestApp.dll
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\bin\Debug\netcoreapp3.1\NaviconTestApp.pdb
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\obj\Debug\netcoreapp3.1\NaviconTestApp.csprojAssemblyReference.cache
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\obj\Debug\netcoreapp3.1\NaviconTestApp.AssemblyInfoInputs.cache
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\obj\Debug\netcoreapp3.1\NaviconTestApp.AssemblyInfo.cs
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\obj\Debug\netcoreapp3.1\NaviconTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\obj\Debug\netcoreapp3.1\NaviconTestApp.dll
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\obj\Debug\netcoreapp3.1\NaviconTestApp.pdb
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\obj\Debug\netcoreapp3.1\NaviconTestApp.genruntimeconfig.cache
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\obj\Debug\netcoreapp3.1\NaviconTestApp.csproj.CopyComplete
+C:\Users\Давид\source\repos\NaviconTestApp\NaviconTestApp\bin\Debug\netcoreapp3.1\NLog.config

@@ -1,0 +1,82 @@
+2021-06-03 10:53:46.0486 INFO User started the service
+2021-06-03 10:54:01.0623 INFO User started the service
+2021-06-03 10:54:06.7799 INFO User started the service
+2021-06-03 10:54:41.3195 INFO User started the service
+2021-06-03 10:55:05.9987 INFO HTML on requested URL was loaded
+2021-06-03 10:55:06.0711 WARN No extension in URI https://scaleflex.ultrafast.io/https://store.filerobot.com/jolipage002-global/49e9062d6478c3169565f429bd1f2eb548a05cb298d51cab14ff3211745ca6a2?v=865a7f?v1
+2021-06-03 10:55:06.0711 WARN No extension in URI https://scaleflex.ultrafast.io/https://api.filerobot.com/jolipage002-global/v3/get/b430c340-c87b-5c7d-b1c7-f7f59bf50000?v1
+2021-06-03 10:55:06.0711 WARN No extension in URI https://scaleflex.ultrafast.io/https://cdn.jolipage.co/5c1376c5-e4cd-4250-b760-4c810d7f5fdd/e28bc022-5191-42a4-b91e-761d25da9c21/0451192b4ddde2e4d95b7db45fa6bb81342f539998d46257fff0f55941a66551?v1
+2021-06-03 10:55:06.0711 WARN No extension in URI https://scaleflex.ultrafast.io/https://api.filerobot.com/jolipage002-global/v3/get/641bf506-84c3-562c-b5e3-1a80aa850000?v1
+2021-06-03 10:55:06.1021 WARN No extension in URI https://scaleflex.ultrafast.io/https://api.filerobot.com/jolipage002-global/v3/get/85df9e21-013f-5700-af1e-fe4535050000?v1
+2021-06-03 10:55:06.1021 WARN No extension in URI https://scaleflex.ultrafast.io/https://cdn-api.jolipage.co/v3/get/da09832e-38d5-5c91-84da-520e24350000?v1
+2021-06-03 10:55:06.1406 WARN No extension in URI https://scaleflex.cloudimg.io/v7/https://api.filerobot.com/jolipage002-global/v3/get/98e8325f-ede9-53da-a1bf-3d5840850000
+2021-06-03 10:55:06.1521 WARN No extension in URI https://scaleflex.cloudimg.io/v7/https://api.filerobot.com/jolipage002-global/v3/get/0c1d36ac-5085-5506-b978-72adf0d50000
+2021-06-03 10:55:06.1521 WARN No extension in URI https://scaleflex.cloudimg.io/v7/https://api.filerobot.com/jolipage002-global/v3/get/3a53535b-1261-511c-bc1a-2e7a1e150000
+2021-06-03 10:55:06.1521 WARN No extension in URI https://scaleflex.cloudimg.io/v7/https://api.filerobot.com/jolipage002-global/v3/get/723d88a4-c12e-5156-9f12-423668750000
+2021-06-03 10:55:06.1686 WARN No extension in URI https://scaleflex.cloudimg.io/v7/https://api.filerobot.com/jolipage002-global/v3/get/e8c189ed-26e4-5805-972a-dda587750000
+2021-06-03 10:55:06.1686 WARN No extension in URI https://scaleflex.cloudimg.io/v7/https://api.filerobot.com/jolipage002-global/v3/get/23cfc102-2fdb-5332-a1a4-6ef777250000
+2021-06-03 10:55:06.1801 WARN No extension in URI https://scaleflex.cloudimg.io/v7/https://api.filerobot.com/jolipage002-global/v3/get/87360fb8-c439-588d-8c5d-a6661dc50000
+2021-06-03 10:55:06.3394 INFO File downloaded successfully
+2021-06-03 10:55:06.3506 INFO File downloaded successfully
+2021-06-03 10:55:06.3506 INFO File downloaded successfully
+2021-06-03 10:55:06.3747 INFO File downloaded successfully
+2021-06-03 10:55:06.3879 INFO File downloaded successfully
+2021-06-03 10:55:06.6822 INFO File downloaded successfully
+2021-06-03 10:55:06.7770 INFO File downloaded successfully
+2021-06-03 10:55:06.9576 INFO File downloaded successfully
+2021-06-03 10:55:06.9578 INFO File downloaded successfully
+2021-06-03 10:55:28.6766 ERROR Unexpected error while loading file. Error message: The remote server returned an error: (404) Not Found.
+2021-06-03 10:55:33.9728 INFO File downloaded successfully
+2021-06-03 10:55:33.9841 ERROR Unexpected error while loading file. Error message: The remote server returned an error: (404) Not Found.
+2021-06-03 10:55:34.0227 INFO File downloaded successfully
+2021-06-03 10:55:34.0435 INFO File downloaded successfully
+2021-06-03 10:55:34.1543 INFO File downloaded successfully
+2021-06-03 10:55:34.1849 INFO File downloaded successfully
+2021-06-03 10:55:34.2371 INFO File downloaded successfully
+2021-06-03 10:55:34.2548 INFO All files have been downloaded
+2021-06-03 10:55:38.4944 INFO User stoped the service
+2021-06-03 11:03:49.3777 INFO User started the service
+2021-06-03 11:03:52.7459 WARN User entered incorrect url
+2021-06-03 11:03:54.8099 WARN User entered incorrect url
+2021-06-03 11:04:05.7930 INFO HTML on requested URL was loaded
+2021-06-03 11:04:05.8647 WARN No extension in URI https://scaleflex.ultrafast.io/https://api.filerobot.com/jolipage002-global/v3/get/b430c340-c87b-5c7d-b1c7-f7f59bf50000?v1
+2021-06-03 11:04:06.2348 INFO File downloaded successfully
+2021-06-03 11:04:06.2348 INFO File downloaded successfully
+2021-06-03 11:04:06.2476 INFO File downloaded successfully
+2021-06-03 11:04:06.2648 INFO File downloaded successfully
+2021-06-03 11:04:06.3064 INFO File downloaded successfully
+2021-06-03 11:04:06.5558 INFO File downloaded successfully
+2021-06-03 11:04:06.5709 INFO File downloaded successfully
+2021-06-03 11:04:06.5954 INFO File downloaded successfully
+2021-06-03 11:04:06.5954 INFO File downloaded successfully
+2021-06-03 11:04:06.6073 INFO All files have been downloaded
+2021-06-03 11:05:43.2592 INFO User started the service
+2021-06-03 11:05:50.5153 WARN User entered incorrect url
+2021-06-03 11:06:00.3962 INFO HTML on requested URL was loaded
+2021-06-03 11:06:00.5891 INFO File downloaded successfully
+2021-06-03 11:06:00.5891 INFO File downloaded successfully
+2021-06-03 11:06:00.6090 INFO File downloaded successfully
+2021-06-03 11:06:00.9490 INFO File downloaded successfully
+2021-06-03 11:06:00.9490 INFO All files have been downloaded
+2021-06-03 11:06:06.9868 WARN User entered incorrect url
+2021-06-03 11:06:15.7770 INFO HTML on requested URL was loaded
+2021-06-03 11:06:15.8705 INFO File downloaded successfully
+2021-06-03 11:06:15.8851 INFO File downloaded successfully
+2021-06-03 11:06:16.2720 INFO File downloaded successfully
+2021-06-03 11:06:16.2720 INFO All files have been downloaded
+2021-06-03 11:06:17.6160 INFO User stoped the service
+2021-06-03 11:09:23.9613 INFO User started the service
+2021-06-03 11:09:29.0963 WARN User entered incorrect url
+2021-06-03 11:09:45.3149 INFO HTML on requested URL was loaded
+2021-06-03 11:09:45.4470 WARN No extension in URI https://scaleflex.ultrafast.io/https://api.filerobot.com/jolipage002-global/v3/get/b430c340-c87b-5c7d-b1c7-f7f59bf50000?v1
+2021-06-03 11:09:45.6904 INFO File downloaded successfully
+2021-06-03 11:09:45.7400 INFO File downloaded successfully
+2021-06-03 11:09:45.7668 INFO File downloaded successfully
+2021-06-03 11:09:45.7668 INFO File downloaded successfully
+2021-06-03 11:09:45.7668 INFO File downloaded successfully
+2021-06-03 11:09:46.0192 INFO File downloaded successfully
+2021-06-03 11:09:46.0269 INFO File downloaded successfully
+2021-06-03 11:09:46.0269 INFO File downloaded successfully
+2021-06-03 11:09:46.0269 INFO File downloaded successfully
+2021-06-03 11:09:46.0677 INFO All files have been downloaded
+2021-06-03 11:09:59.6000 INFO User stoped the service
